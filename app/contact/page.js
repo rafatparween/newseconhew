@@ -3,6 +3,7 @@
 "use client"
 import { useState } from 'react';
 import Head from 'next/head';
+import Footer from '../Components/Footer';
 
 const ContactPage = () => {
   const [formData, setFormData] = useState({
@@ -38,6 +39,7 @@ const ContactPage = () => {
   };
 
   return (
+    <>
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-indigo-100">
       <Head>
         <title>Contact Us -Hewlett Printers Solution
@@ -219,6 +221,8 @@ const ContactPage = () => {
 
       {/* Footer would be imported from your layout component in a real app */}
     </div>
+    <Footer/>
+    </>
   );
 };
 

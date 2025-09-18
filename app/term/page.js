@@ -1,3 +1,4 @@
+import Footer from "../Components/Footer";
 
 const TermPage = () => {
     return (
@@ -98,14 +99,15 @@ const TermPage = () => {
                     </p>
                 </section>
 
-                <footer className="text-center text-gray-600">
+                {/* <footer className="text-center text-gray-600">
                     <p className="text-sm">© 2025 <strong>Hewlett Printers Solution</strong>. All Rights Reserved.</p>
                     <p className="text-sm">
                         For any questions or concerns regarding these terms, please contact us at
                         <a href="mailto:support@hewlettprintersolution.com" className="text-blue-500 hover:underline"> support@hewlettprintersolution.com</a>.
                     </p>
-                </footer>
+                </footer> */}
             </div>
+            <Footer/>
         </>
     )
 };
