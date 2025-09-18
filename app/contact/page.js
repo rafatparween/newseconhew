@@ -152,8 +152,8 @@ const ContactPage = () => {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-gray-900">Email</h3>
-                    <p className="mt-1 text-gray-600">support@hewlettprinterssolution.com</p>
-                    <p className="mt-1 text-gray-600">sales@hewlettprinterssolution.com</p>
+                    <p className="mt-1 text-gray-600">support@hewlettprintersolution.com</p>
+                    <p className="mt-1 text-gray-600">sales@hewlettprintersolution.com</p>
                   </div>
                 </div>
 
@@ -165,7 +165,7 @@ const ContactPage = () => {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-gray-900">Phone</h3>
-                    <p className="mt-1 text-gray-600">+1 (555) 123-4567</p>
+                    <p className="mt-1 text-gray-600">+(1) 888-291-3869</p>
                     <p className="mt-1 text-gray-600">Mon-Fri: 9am-5pm EST</p>
                   </div>
                 </div>

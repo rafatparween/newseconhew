@@ -14,9 +14,9 @@ const Footer = () => {
         <div className="mb-8 pb-4 border-b border-teal-700">
           <Link href="/" className="inline-block">
             <h2 className="text-[36px] font-bold text-white">
-              <span className="text-white">Micro</span> 
-              <span className="text-white"> Hub </span>
-              <span className="text-white">Care</span>
+              <span className="text-white">Hewlett</span> 
+              <span className="text-white"> Printers </span>
+              <span className="text-white">Solution</span>
             </h2>
             <p className="text-[#1C8DCEED] text-sm mt-1">Premium Technical Solutions</p>
           </Link>
@@ -101,10 +101,10 @@ const Footer = () => {
               <p className="flex items-center">
                 <span className="mr-2">✉️</span>
                 <a
-                  href="mailto:support@hewlettprinterssolution.com"
+                  href="mailto:support@hewlettprintersolution.com"
                   className="hover:text-teal-200 transition-colors duration-300"
                 >
-                  support@hewlettprinterssolution.com
+                  support@hewlettprintersolution.com
                 </a>
               </p>
             </div>

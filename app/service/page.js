@@ -104,7 +104,7 @@ const ServicesPage = () => {
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-indigo-100">
       <Head>
-        <title>Our Services - microhubcare
+        <title>Our Services - Hewlett Printers Solution
 </title>
         <meta name="description" content="Discover our smart solutions for your business" />
       </Head>
@@ -229,7 +229,7 @@ const ServicesPage = () => {
             Ready to transform your business?
           </h2>
           <p className="text-indigo-100 max-w-2xl mx-auto mb-8">
-            Our team at microhubcare
+            Our team at Hewlett Printers Solution
 is ready to help you implement the perfect solution for your needs.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">

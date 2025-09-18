@@ -102,7 +102,7 @@ const TermPage = () => {
                     <p className="text-sm">© 2025 <strong>Hewlett Printers Solution</strong>. All Rights Reserved.</p>
                     <p className="text-sm">
                         For any questions or concerns regarding these terms, please contact us at
-                        <a href="mailto:support@hewlettprinterssolution.com" className="text-blue-500 hover:underline"> support@hewlettprinterssolution.com</a>.
+                        <a href="mailto:support@hewlettprintersolution.com" className="text-blue-500 hover:underline"> support@hewlettprintersolution.com</a>.
                     </p>
                 </footer>
             </div>
