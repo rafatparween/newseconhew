@@ -1,6 +1,7 @@
 "use client"
 import { useState } from 'react';
 import Head from 'next/head';
+import Footer from '../Components/Footer';
 
 const ServicesPage = () => {
   const [activeTab, setActiveTab] = useState('all');
@@ -102,6 +103,7 @@ const ServicesPage = () => {
     : services.filter(service => service.category === activeTab);
 
   return (
+    <>
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-indigo-100">
       <Head>
         <title>Our Services - Hewlett Printers Solution
@@ -243,6 +245,8 @@ is ready to help you implement the perfect solution for your needs.
         </div>
       </main>
     </div>
+    <Footer/>
+    </>
   );
 };
 
